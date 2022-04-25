@@ -25,7 +25,7 @@ pyromod
 requests
 speedtest-cli
 uvloop
-yt-dlpr
+yt-dlp
 hachoir
 lyricsgenius
 httpx>=0.14.2
